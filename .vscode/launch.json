@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Day 02",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/day02/x86-attempt/day02",
+            "cwd": "${workspaceFolder}/day02/x86-attempt",
+            "preLaunchTask": "Build Day 02"
+        }
+    ]
+}
