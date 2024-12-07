@@ -11,6 +11,15 @@
             "options": {
                 "cwd": "${workspaceFolder}/day02/x86-attempt"
             }
+        },
+        {
+            "label": "Build Day 06",
+            "type": "shell",
+            "command": "make day06",
+            "group": "build",
+            "options": {
+                "cwd": "${workspaceFolder}/day06"
+            }
         }
     ]
 }

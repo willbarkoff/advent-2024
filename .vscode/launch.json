@@ -8,6 +8,14 @@
             "program": "${workspaceFolder}/day02/x86-attempt/day02",
             "cwd": "${workspaceFolder}/day02/x86-attempt",
             "preLaunchTask": "Build Day 02"
+        },
+        {
+            "name": "Day 06",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/day06/day06",
+            "cwd": "${workspaceFolder}/day06",
+            "preLaunchTask": "Build Day 06"
         }
     ]
 }
